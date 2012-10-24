@@ -1,0 +1,7 @@
+{
+  "uuid": "ignore_request_hide_titlebar@having_to_write_an_extension_to_set_a_pref_is_silly",
+  "name": "ignore_request_hide_titlebar",
+  "description": "Make Gnome shell ignore requests to hide the titlebar for maxamized windows",
+  "url": "",
+  "shell-version": [ "3.6" ]
+}
