@@ -3,5 +3,5 @@
   "name": "ignore_request_hide_titlebar",
   "description": "Make Gnome shell ignore requests to hide the titlebar for maxamized windows",
   "url": "https://github.com/garyvdm/gnome_shell_ignore_request_hide_titlebar",
-  "shell-version": [ "3.6" ]
+  "shell-version": [ "3.6", "3.8" ]
 }
